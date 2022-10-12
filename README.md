@@ -7,7 +7,13 @@
 Nefes alsın yeter
 ```
 
+
+
 ## Scirpt kurulumu (Hata alan olursa manuel kurulum aşağıda)
+
+ * Ekip duyurusu: Katılan herkes için özel bir NFT almaya ve resmi Discord Kanalımızda özel bir unvan almaya hak kazanırsınız
+ * Discord [linki](https://discord.gg/QTp6VhYm)
+
 ```
 curl --proto '=https' --tlsv1.2 -sSf https://raw.githubusercontent.com/Manta-Network/manta-rs/main/tools/install.sh | sh
 ```
